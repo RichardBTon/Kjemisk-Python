@@ -704,20 +704,20 @@ def tolke_input(inputs, molekyler):
 # 10. MAIN
 ####################################################################################################
 
-#
-# Programmet kan:
-#
-#     - Regne ut ukjente masser i en fullstending reaksjonsligning og vise diverse informasjon i en formatert tabell.
-#     - Vise en tabell med molmasser ut ifra en liste med molekyler.
-#     - Vise en tabell med Ka og Kb dersom den finner ut at et eller flere av molekylene, enten i reaksjonsligningen eller i
-#       listen med molekyler, er en syre.
-#
-# Endre områdene som er formatert på måten under for å bruke programmet.
-##########################
-# Instruksjoner
-# variabel = liste/string
-##########################
+"""
+Programmet kan:
 
+    - Regne ut ukjente masser i en fullstending reaksjonsligning og vise diverse informasjon i en formatert tabell.
+    - Vise en tabell med molmasser ut ifra en liste med molekyler.
+    - Vise en tabell med Ka og Kb dersom den finner ut at et eller flere av molekylene, enten i reaksjonsligningen eller i
+      listen med molekyler, er en syre.
+
+Endre områdene som er formatert på måten under for å bruke programmet.
+#########################
+Instruksjoner
+variabel = liste/string
+##########################
+"""
 
 
 def main():
