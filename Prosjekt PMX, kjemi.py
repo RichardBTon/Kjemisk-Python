@@ -715,7 +715,7 @@ def tolke_input(inputs, molekyler):
 # Endre områdene som er formatert på måten under for å bruke programmet.
 ##########################
 # Instruksjoner
-variabel = liste/string
+# variabel = liste/string
 ##########################
 
 
